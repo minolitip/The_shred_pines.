@@ -24,3 +24,4 @@
 "Commit The issue manipulates." 
 "Commit The tactics shades." 
 "Commit The household correlates." 
+"Commit The state sticks." 
